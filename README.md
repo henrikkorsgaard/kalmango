@@ -6,3 +6,5 @@ All credit to @wouterbulten for the orignal library and thinking.
 
 ## Disclaimer
 I have zero knowledge of or experience with Kalman filters. This seem to work the same way as Kalmanjs, but I have no clue. Yes, this is reality when UI and web developers get caught up in complex development.
+
+If you think you can do better or have comments I would love to hear from you :)
